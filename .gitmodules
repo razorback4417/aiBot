@@ -1,0 +1,3 @@
+[submodule "chatGPT-discord-bot"]
+	path = chatGPT-discord-bot
+	url = https://github.com/razorback4417/aiBot
